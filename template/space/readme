@@ -1,0 +1,1 @@
+В настройках проекта (Project Setettings -> Modules -> Sources -> "Mark as") папку space\target\generated-sources пометить как "Sources"  - настройка Querydsl, там лежит сгенерированный вспомогательный класс Qship.
